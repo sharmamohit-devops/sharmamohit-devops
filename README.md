@@ -16,8 +16,8 @@
 
 ## 🛠️ Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,git,github,linux,arduino,raspberrypi" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,git,github,arduino," /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,vscode,Expressjs" />
 </p>
 
 ---
