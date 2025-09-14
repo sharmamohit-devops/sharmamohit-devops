@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,git,github,linux,arduino,raspberrypi" /><br>
+  <img src="https://skillicons.dev/icons?i=python,matlab,git,github,arduino" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,vscode" />
 </p>
 
@@ -30,11 +30,6 @@
 
 ## 🚀 Projects  
 
-### 🔬 Electronics & Embedded  
-- 🛰️ [**Radar System**](https://github.com/sharmamohit-devops/Radar-System) – Built with **Arduino + Ultrasonic Sensor + Buzzer**, now enhancing with **object detection, angle, speed logging in CSV, and ML integration**  
-
-### ⚡ Electrical & Simulation  
-- ⚡ [**Circuit Theory Simulator**](https://github.com/sharmamohit-devops/Circuit-Theory-Simulator) – Solves and plots **transient + steady-state waveforms** using **MATLAB & Python**  
 
 ### 🌐 Web Development  
 - 💻 [**Portfolio Website**](https://github.com/sharmamohit-devops/Portfolio) – Developed with **React + Vite**, deployed on **Vercel**  
@@ -47,11 +42,6 @@ Python with EE concepts
 
 ## 🏆 Achievements & Fun Stuff  
 
-### 🏅 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharmamohit-devops&theme=onedark&no-frame=true&margin-w=5" />
-</p>
-
 ### 📈 GitHub Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmamohit-devops&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
@@ -63,17 +53,11 @@ Python with EE concepts
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmamohit-devops&theme=tokyonight" height="150"/>
 </p>
 
-### 💡 Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-js/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:mohitfrontendev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
