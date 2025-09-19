@@ -1,7 +1,4 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohit%20Sharma&fontAlign=50&fontAlignY=40&fontSize=50&desc=Electrical%20Engineer%20%7C%20Web%20%26%20Embedded%20Developer%20%7C%20AI%2FML%20Learner&descAlign=50&descAlignY=65&animation=fadeIn" />
-</p>
+<h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
 
 <!-- Typing Intro -->
 <p align="center">
@@ -23,7 +20,7 @@
 
 **Languages & AI**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,matlab,c" />
+  <img src="https://skillicons.dev/icons?i=python,matlab" />
 </p>
 
 **Web Development**  
@@ -45,7 +42,7 @@
 
 ## 🚀 Featured Projects  
 
-🔥 **Radar & Embedded**  
+🔥 **Radar & Embedded** (Coming Soon)
 - [**Radar-project**](https://github.com/sharmamohit-devops/Radar-project) → Arduino + Ultrasonic sensor + Servo for mini-radar.  
 
 🌐 **Web Development**  
@@ -85,18 +82,6 @@
 
 ---
 
-## 🔍 Recent Activity  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 Random Dev Quote  
-<!--STARTS_HERE_QUOTE-->
-<!--ENDS_HERE_QUOTE-->
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-js/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -110,8 +95,3 @@
 </p>
 
 <p align="center">⭐ From <a href="https://github.com/sharmamohit-devops">sharmamohit-devops</a></p>
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
