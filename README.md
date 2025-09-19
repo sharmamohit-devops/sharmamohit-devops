@@ -42,12 +42,13 @@
 
 ## 🚀 Featured Projects  
 
-🔥 **Radar & Embedded** (Coming Soon)
+🔥 **Radar & Embedded** (Coming Soon)  
 - [**Radar-project**](https://github.com/sharmamohit-devops/Radar-project) → Arduino + Ultrasonic sensor + Servo for mini-radar.  
 
 🌐 **Web Development**  
 - [**Portfolio Website**](https://github.com/sharmamohit-devops/Portfolio) → React + Vite, deployed on Vercel.  
 - [**Projects Showcase**](https://github.com/sharmamohit-devops/Projects-Showcase) → Interactive React site for projects.  
+- [**StudyTogether App**](https://github.com/sharmamohit-devops/StudyTogether) → Collaboration app for students to study and share resources.  
 - [**Blog-App**](https://github.com/sharmamohit-devops/Blog-App) → Dark mode blogging app (Firebase).  
 - [**Weather-App**](https://github.com/sharmamohit-devops/weather-App) → API-based weather forecast app.  
 - [**Todo-App**](https://github.com/sharmamohit-devops/Todo-App) → Minimal productivity tool.  
@@ -76,13 +77,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sharmamohit-devops&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-js/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mohitfrontendev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/mohitsharma_dev7/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
