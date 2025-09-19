@@ -33,9 +33,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Hardware**  
+**Hardware & Embedded**  
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />  
+  <img src="https://img.shields.io/badge/Processing-IDE-blue?style=for-the-badge&logo=processingfoundation&logoColor=white" />
 </p>
 
 ---
@@ -93,3 +94,4 @@
 </p>
 
 <p align="center">⭐ From <a href="https://github.com/sharmamohit-devops">sharmamohit-devops</a></p>
+
