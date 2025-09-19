@@ -76,9 +76,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sharmamohit-devops&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/sharmamohit-devops/sharmamohit-devops/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
