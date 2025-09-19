@@ -1,115 +1,17 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohit%20Sharma&fontAlign=50&fontAlignY=40&fontSize=50&desc=Electrical%20Engineer%20%7C%20Web%20%26%20Embedded%20Developer%20%7C%20AI%2FML%20Learner&descAlign=50&descAlignY=65&animation=fadeIn" />
-</p>
+name: Update Recent Activity
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=⚡+Electrical+Engineer;💻+Full-Stack+Web+Developer;🔭+Embedded+Systems+%26+Radar+Enthusiast;📚+Python+%26+ML+Learner;🚀+Aspiring+ISRO+%7C+DRDO+Engineer" />
-</p>
+on:
+  schedule:
+    - cron: "0 * * * *" # updates every hour
+  workflow_dispatch:
 
----
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-## 🌟 About Me
-- 🎓 B.Tech Electrical Engineering student at **Aligarh Muslim University**  
-- 🛰 Exploring **Radar Systems, Stealth Tech, and Defense Applications**  
-- 💻 Building projects in **Web, Embedded Systems, and AI/ML**  
-- 🌐 Skilled in **React, Vite, Node.js, Python, MATLAB, Arduino**  
-- 🎯 Goal: To merge **Electrical + Coding + Embedded + AI** into impactful innovations  
-
----
-
-## 🛠️ Tech Arsenal
-
-**Languages & AI**  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,matlab,c" />
-</p>
-
-**Web Development**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite" />
-</p>
-
-**Tools & Platforms**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Hardware**  
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-🔥 **Radar & Embedded**  
-- [**Radar-project**](https://github.com/sharmamohit-devops/Radar-project) → Arduino + Ultrasonic sensor + Servo for mini-radar.  
-
-🌐 **Web Development**  
-- [**Portfolio Website**](https://github.com/sharmamohit-devops/Portfolio) → React + Vite, deployed on Vercel.  
-- [**Projects Showcase**](https://github.com/sharmamohit-devops/Projects-Showcase) → Interactive React site for projects.  
-- [**Blog-App**](https://github.com/sharmamohit-devops/Blog-App) → Dark mode blogging app (Firebase).  
-- [**Weather-App**](https://github.com/sharmamohit-devops/weather-App) → API-based weather forecast app.  
-- [**Todo-App**](https://github.com/sharmamohit-devops/Todo-App) → Minimal productivity tool.  
-
-🛡 **Research / Innovation**  
-- [**IntegrityGuard**](https://github.com/sharmamohit-devops/IntegrityGuard) → Prototype AI-powered online proctoring system.  
-
----
-
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmamohit-devops&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharmamohit-devops&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamohit-devops&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements & Fun  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharmamohit-devops&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/sharmamohit-devops/sharmamohit-devops/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🔍 Recent Activity  
-<!--START_SECTION:activity-->
-<!-- Auto-updated via GitHub Actions -->
-<!--END_SECTION:activity-->
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-sharma-js/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mohitfrontendev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmamohit-devops&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center">⭐ From <a href="https://github.com/sharmamohit-devops">sharmamohit-devops</a></p>
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
-
-
-
+      - name: Recent Activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
