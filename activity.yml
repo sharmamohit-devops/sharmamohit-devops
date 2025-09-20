@@ -1,17 +1,20 @@
-name: Update Recent Activity
-
+name: GitHub Contribution Snake
 on:
   schedule:
-    - cron: "0 * * * *" # every hour
+    - cron: '0 0 * * *' # runs daily
   workflow_dispatch:
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
-      - name: Recent Activity
-        uses: Readme-Workflows/recent-activity@v2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Snake SVG
+        run: npx github-contribution-grid-snake
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake"
+          git push
