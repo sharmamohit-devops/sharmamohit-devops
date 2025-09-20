@@ -35,7 +35,7 @@
 
 **Hardware & Embedded**  
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />  
+  <img src="https://skillicons.dev/icons?i=arduino" />
   <img src="https://img.shields.io/badge/Processing-IDE-blue?style=for-the-badge&logo=processingfoundation&logoColor=white" />
 </p>
 
@@ -68,6 +68,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamohit-devops&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🐍 Contributions Snake
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmamohit-devops&theme=tokyonight" />
 </p>
 
 ---
