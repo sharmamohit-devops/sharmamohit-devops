@@ -95,11 +95,6 @@
 
 ---
 
-## 🐍 Snake Game – Watch My Contributions Come Alive
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharmamohit-devops/sharmamohit-devops/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
