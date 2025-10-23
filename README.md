@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔭 Radar & Embedded *(Coming Soon 🚧)*  
+### 🔭 Radar & Embedded *(Latest Project 📡)*  
 - [**Radar-Project**](https://github.com/sharmamohit-devops/Radar-project) → Arduino + Ultrasonic + Servo for mini radar
 
 ### 🌐 Web Apps  
